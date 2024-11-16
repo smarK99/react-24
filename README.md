@@ -1,5 +1,6 @@
 # Link deploy Vercel
-
+https://react-24-mu.vercel.app/
+(Puede que no cargue las imagenes correspondientes, en tal caso descargar proyecto y ejecutar localmente con npm run dev)
 
 # React + TypeScript + Vite
 
